@@ -1,4 +1,4 @@
-VTTCue.createAPP({
+Vue.createApp({
   // data: function (){}
   //Property name data which has a function as a value
   data() {
